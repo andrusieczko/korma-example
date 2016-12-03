@@ -1,8 +1,8 @@
 # korma-example
 
-A simple project showing the issue #322 how to use `korma` without macros with *many-to-many* relationships.
+A simple project showing the issue [#322](https://github.com/korma/Korma/issues/322) how to use `korma` without macros with *many-to-many* relationships.
 
-It uses (https://github.com/andrusieczko/Korma/tree/many-to-many-without-macros)[https://github.com/andrusieczko/Korma/tree/many-to-many-without-macros] branch that you have to install manually.
+It uses [https://github.com/andrusieczko/Korma/tree/many-to-many-without-macros](https://github.com/andrusieczko/Korma/tree/many-to-many-without-macros) branch that you have to install manually.
 
 Steps for installing Korma manually:
 
